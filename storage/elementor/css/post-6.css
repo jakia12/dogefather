@@ -1,0 +1,24 @@
+.elementor-kit-6{--e-global-color-primary:#DCAA87;--e-global-color-secondary:#201A17;--e-global-color-text:#DCAA87;--e-global-color-accent:#B67B6A;--e-global-color-458aeb6:#262626;--e-global-color-787a6bf:#FF007A;--e-global-color-6fa3353:#05A3C9;--e-global-color-905fdf1:#DDDDDD24;--e-global-color-9a1343e:#FFFFFF00;--e-global-color-f005fbf:#FFFFFF33;--e-global-color-5a81e66:#FFFFFF6B;--e-global-color-8437629:#FFFFFF;--e-global-color-afbc639:#1F1916;--e-global-color-dcffc29:#FCF9F3;--e-global-color-d2f03ae:#FFFFFF;--e-global-color-f6491fa:#666666;--e-global-typography-primary-font-family:"Stopbuck";--e-global-typography-primary-font-size:1.5rem;--e-global-typography-primary-font-weight:400;--e-global-typography-primary-letter-spacing:0.02em;--e-global-typography-secondary-font-family:"Stopbuck";--e-global-typography-secondary-font-size:2rem;--e-global-typography-secondary-font-weight:400;--e-global-typography-secondary-letter-spacing:0.02em;--e-global-typography-text-font-family:"Stopbuck";--e-global-typography-text-font-size:2.5rem;--e-global-typography-text-font-weight:400;--e-global-typography-text-letter-spacing:0.02em;--e-global-typography-accent-font-family:"Stopbuck";--e-global-typography-accent-font-size:1.88rem;--e-global-typography-accent-font-weight:400;--e-global-typography-accent-letter-spacing:0.02em;--e-global-typography-f7b648f-font-family:"Stopbuck";--e-global-typography-f7b648f-font-size:3.6rem;--e-global-typography-f7b648f-font-weight:400;--e-global-typography-f7b648f-letter-spacing:0.02em;--e-global-typography-2de4f16-font-family:"Stopbuck";--e-global-typography-2de4f16-font-size:1.9rem;--e-global-typography-2de4f16-font-weight:400;--e-global-typography-2de4f16-letter-spacing:0.02em;--e-global-typography-9641f2f-font-family:"SF PRO REGULAR";--e-global-typography-9641f2f-font-size:1.25rem;--e-global-typography-9641f2f-font-weight:400;--e-global-typography-7419c7e-font-family:"Stopbuck";--e-global-typography-7419c7e-font-size:3.6rem;--e-global-typography-7419c7e-font-weight:400;--e-global-typography-7419c7e-letter-spacing:0.02em;--e-global-typography-eb9f7dc-font-family:"Lonely Cake";--e-global-typography-eb9f7dc-font-size:1.8rem;--e-global-typography-eb9f7dc-font-weight:400;--e-global-typography-07b621d-font-family:"Lonely Cake";--e-global-typography-07b621d-font-size:2.125rem;--e-global-typography-07b621d-font-weight:500;--e-global-typography-3c474da-font-family:"Lonely Cake";--e-global-typography-3c474da-font-size:1.328rem;--e-global-typography-3c474da-font-weight:500;--e-global-typography-dbf369e-font-family:"Lonely Cake";--e-global-typography-dbf369e-font-size:3.38rem;--e-global-typography-db6e8b0-font-family:"Lonely Cake";--e-global-typography-db6e8b0-font-size:17px;--e-global-typography-db6e8b0-font-weight:400;--e-global-typography-12373db-font-size:10em;--e-global-typography-b05ca57-font-size:7em;background-color:var( --e-global-color-text );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-6 e-page-transition{background-color:#FFBC7D;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}@media(max-width:1024px){.elementor-kit-6{--e-global-typography-primary-font-size:15px;--e-global-typography-12373db-font-size:8em;--e-global-typography-b05ca57-font-size:5em;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-6{--e-global-typography-07b621d-font-size:24px;--e-global-typography-12373db-font-size:3em;--e-global-typography-b05ca57-font-size:2em;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Stopbuck';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://capybaraeth.meme/wp-content/uploads/2024/08/66aa6ff44b59b5ddf05afb21_Stopbuck.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'SF PRO REGULAR';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://capybaraeth.meme/wp-content/uploads/2024/08/66aa70f980315d8bbf5dc3d7_SFPRODISPLAYREGULAR.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Lonely Cake';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://capybaraeth.meme/wp-content/uploads/2024/10/Lonely-Cake.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
