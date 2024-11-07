@@ -509,7 +509,7 @@
   .elementor-element.elementor-element-359c3b6
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-image: url("https://capybaraeth.meme/wp-content/uploads/2024/09/66d03066f8f8d46dbd9ea1b9_about-bg-1.svg");
+  background-image: url("../../../images/cornered-stairs.svg");
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1491,15 +1491,15 @@ body.rtl .elementor-23 .elementor-element.elementor-element-f04ad55 {
   .elementor-element.elementor-element-9cdfa4c:not(
     .elementor-motion-effects-element-type-background
   ),
-.elementor-23
+/* .elementor-23
   .elementor-element.elementor-element-9cdfa4c
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-image: url("https://capybaraeth.meme/wp-content/uploads/2024/09/66d03066f8f8d46dbd9ea1b9_about-bg-1.svg");
+  background-image: url("../../../images/cornered-stairs.svg");
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
-}
+} */
 .elementor-23 .elementor-element.elementor-element-9cdfa4c::before,
 .elementor-23
   .elementor-element.elementor-element-9cdfa4c
@@ -3196,7 +3196,7 @@ body.rtl .elementor-23 .elementor-element.elementor-element-4e1f862 {
   .elementor-element.elementor-element-fc6cdd7
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-image: url("https://capybaraeth.meme/wp-content/uploads/2024/09/66d03066f8f8d46dbd9ea1b9_about-bg-1.svg");
+  background-image: url("../../../images/varying-stripes.svg");
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
